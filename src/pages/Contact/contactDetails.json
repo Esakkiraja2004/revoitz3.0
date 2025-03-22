@@ -1,0 +1,150 @@
+{
+    "staff": [{
+            "name": "Dr. Anitha",
+            "contactNumber": "+91 94444 41582"
+        },
+        {
+            "name": "Dr. Bhagiranthan",
+            "contactNumber": "+91 98412 27073"
+        }
+
+    ],
+    "students": [
+        {
+            "name": "Ms. Kaarunya",
+            "contactNumber": "+91 89403 11274"
+        },
+        {
+        
+            "name": "Mr. Elanilavan",
+            "contactNumber": "+91 99943 24238"
+        },
+
+        {
+            "name": "Ms. Abhinaya",
+            "contactNumber": "+91 6374 290 767"
+        },
+        {
+            "name": "Ms . Yukthasri ",
+            "contactNumber": "+91 87781 40407 "
+        },
+        {
+            "name": "Mr .  Siva ",
+            "contactNumber": "+91 78068 01454"
+        },
+        {
+            "name": "Ms . Shamitha",
+            "contactNumber": "+91 80721 42582"
+        },
+        {
+            "name": "Mr . Pradeep",
+            "contactNumber": "+91 63832 48929 "
+        },
+        {
+            "name": "Mr. Sriman",
+            "contactNumber": "+91 97914 46006"
+        },
+        {
+            "name": "Ms. Ami sapthika",
+            "contactNumber": "+91 87549 09741"
+        }
+    ],
+    "WebsiteDevelopers":[{
+        "name": "Mr. Esakki Raja M",
+        "contactNumber": "+91 80565 9150"
+        
+    },
+    { 
+        "name": "Mr. Kumaran G",
+        "contactNumber": "+91 95782 73263"
+    },
+    { 
+        "name": "Mr. Santhosh KO",
+        "contactNumber": "+91 96269 46525"
+    }
+],
+    "eventCoordinators": [{
+            "name": "Ms. Pooja narayani ",
+            "event": "PPT Presentaion",
+            "contactNumber": "+91 93452 27071"
+        },
+        {
+            "name": "Ms . Rebika",
+            "event": "PPT Presentaion",
+            "contactNumber": "+91 70100 44188"
+        },
+        {
+            "name": "Ms. Josba santhosh Anis",
+            "event": "Code Debugging",
+            "contactNumber": "+91 81488 45366"
+        },
+        {
+            "name": "Ms . Aron shany ",
+            "event": "Code Debugging",
+            "contactNumber": "+91 74188 15548"
+        },
+        {
+            "name": "Ms. Rosiga ",
+            "event": "Tech quizz",
+            "contactNumber": "+91 90259 04429"
+        },
+        {
+            "name": "Ms . Pooja ",
+            "event": "Tech quizz",
+            "contactNumber": "+91 73959 82654"
+        },
+        {
+            "name": "Ms . Bernice matutina ",
+            "event": "Poster Presentaion",
+            "contactNumber": "+91 96775 68572"
+        },
+        {
+            "name": "Ms . Bharathi ",
+            "event": "Poster Presentaion",
+            "contactNumber": "+91 86808 38932 "
+        },
+
+        {
+            "name": "Mr . Rudhra Moorthy ",
+            "event": "Box cricket",
+            "contactNumber": "+91 89394 85865"
+        },
+        {
+            "name": "Mr. Vignesh",
+            "event": "Box cricket",
+            "contactNumber": "+91 63831 57110"
+        },
+        {
+            "name": "Mr. Sowmiya ",
+            "event": "Brain broom ",
+            "contactNumber": "+91 93619 37124"
+        },
+        {
+            "name": "Mr. Sunasri ",
+            "event": "Brain broom ",
+            "contactNumber": "+91 93453 72853"
+        },
+        {
+            "name": "Mr . Jinendra ",
+            "event": "Carrom",
+            "contactNumber": "+91 73973 89585"
+        },
+        {
+            "name": "Mr . Rojor",
+            "event": "Carrom",
+            "contactNumber": "+91 73387 06937 "
+        },
+
+        {
+            "name": "Mr . Sidhra Farseen",
+            "event": "Chess",
+            "contactNumber": "+91 97515 38286"
+        },
+        {
+            "name": "Mr. Sabarish",
+            "event": "Chess",
+            "contactNumber": "+91 95662 21215"
+        }
+
+    ]
+  }

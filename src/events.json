@@ -1,0 +1,300 @@
+[
+    {
+        "eventTitle": "Paper Presentaion",
+        "eventId": "paper & Presentaion",
+        "eventName": "Paper Presentaion",
+        "eventTagline": "Minimalistic palettes; Maximalist pages",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:30 AM",
+        "EventTime": " 10:00 AM",
+        "eventDescription": "Unique, United and Unyielding. Compose your designs with bags of characters to make the trophy your winning glory.",
+        "eventRounds": [
+    ],
+        "coordinatorDetails": [{
+            "eventCoordinatorName": "Pooja",
+            "eventCoordinatorNumber": "+91 9345227071"
+        },
+        {
+            "eventCoordinatorName": "Jobel",
+            "eventCoordinatorNumber": "+91 8122555002"
+        },
+        {
+            "eventCoordinatorName": "Umesh",
+            "eventCoordinatorNumber": "+91 7305834401"
+        }
+        ],
+        "eventImage": "/event-img/logoo/pptLogo.png",
+        "eventPoster": "/event-poster/paperPresentation.jpg",
+        "eventPosterMob": "/event-poster/paperPresentation.jpg",
+        "eventType": "technical",
+        "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeMRqU-LYiOdW3jPHPtwvNK82wKosiSuJAJOm5BY1YV57gNnQ/viewform?usp=sharing",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Poster-Presentation",
+        "eventId": "Poster-Presentation",
+        "eventName": "Poster-Presentation",
+        "eventTagline": "Minimalistic palettes; Maximalist pages.",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:30 AM",
+        "EventTime": " 10:00 AM",
+        "eventDescription": "Not everything is as it seems, find the hidden patterns lurking in the corners. Don’t be cryptical, Be Analytical.",
+        "eventRounds": [
+    ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Bharathvaj M",
+                "eventCoordinatorNumber": "+91 9363051621"
+            },
+
+            {
+                "eventCoordinatorName": "Dhanya E",
+                "eventCoordinatorNumber": "+91 8270583161"
+            },
+            {
+                "eventCoordinatorName": "Harish Kumar",
+                "eventCoordinatorNumber": "+91 9025312572"
+            }
+        ],
+        "eventImage": "/event-img/logoo/CodeR-verse.png",
+        "eventPoster": "/event-poster/posterpresentation.png",
+        "eventPosterMob": "/event-poster/mob/3.png",
+        "eventType": "technical",
+        "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSepqkFK-QqD1lPMSR-22w06uM2bUKVJjH9Pzxm2IjeSIPmiNw/viewform?usp=header",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Code Debugging",
+        "eventId": "code debug",
+        "eventName": "Code Debug",
+        "eventTagline": "Hit the bugs the classical way",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:30 AM",
+        "EventTime": " 10:00 AM",
+        "eventDescription": "Be it syntax, semantic or logical, it’s time to go technical to eliminate the bane of your existence.Shoot your shot to terminate the bugs eating away at your code.",
+        "eventRounds": [
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Karthick ",
+                "eventCoordinatorNumber": "+91 9384551952"
+            },
+            {
+                "eventCoordinatorName": "Nancy",
+                "eventCoordinatorNumber": "+91 7871197550"
+            },
+            {
+                "eventCoordinatorName": "Siva",
+                "eventCoordinatorNumber": "+91 7806801454 "
+            }
+        ],
+
+        "eventImage": "/event-img/logoo/I knew You Were Trouble.png",
+        "eventPoster": "/event-poster/debug.jpg",
+        "eventPosterMob": "/event-poster/debug.jpg",
+        "eventType": "technical",
+        "eventUrl": "https://docs.google.com/forms/d/1gK9G9xWXJQ-sQomgGIUqsp1Qg1t67nf2HUEccDqH4lk/edit#responses",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Technical Quiz",
+        "eventId": "Technical Quiz",
+        "eventName": "Technical Quiz",
+        "eventTagline": "Pitching Quiz into Reality",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:30 AM",
+        "EventTime": " 9:00 AM",
+        "eventDescription": "Make your ideas shine bright to put your name in the hall of fame. In the pages of these slides shall lie the products of your mind.",
+
+        "eventRounds": [],
+        "coordinatorDetails": [{
+            "eventCoordinatorName": "Elanchezhiyan ",
+            "eventCoordinatorNumber": "+91 6382742460"
+        },
+        {
+            "eventCoordinatorName": "Pooja",
+            "eventCoordinatorNumber": "+91 7395982654"
+        },
+        {
+            "eventCoordinatorName": "Vaishnavi",
+            "eventCoordinatorNumber": "+91 7305823119 "
+        }
+        ],
+        "eventImage": "/event-img/logoo/Hustlers Harmony.png",
+        "eventPoster": "/event-poster/techQuiz.jpg",
+        "eventPosterMob": "/event-poster/techQuiz.jpg",
+        "eventType": "technical",
+        "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdG_ocv2PjBVBeQg1rsctzRPVJCy7brYmXLdSUs7eiaYikQmw/viewform",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Carrom",
+        "eventId": "Carrom",
+        "eventName": "Carrom",
+        "eventTagline": "Let’s make it expedious!",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:30 AM",
+        "EventTime": " 10:30 AM",
+        "eventDescription": " It involves flicking a striker to move small discs into corner pockets on a square board.",
+        "eventRounds": [
+
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Vijay",
+                "eventCoordinatorNumber": "+91 8248489019"
+            },
+            {
+                "eventCoordinatorName": "Poovizhi",
+                "eventCoordinatorNumber": "+91 9360667587"
+            },
+            {
+                "eventCoordinatorName": "Rojor",
+                "eventCoordinatorNumber": "+91 7338706937"
+            }
+        ],
+        "eventImage": "/event-img/logo/carrom.png",
+        "eventPoster": "/event-poster/carrom.jpg",
+        "eventPosterMob": "/event-poster/carrom.jpg",
+        "eventType": "non-technical",
+        "eventUrl": "https://forms.gle/6eAV2rpmAyERX4Zy8",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Box-Cricket",
+        "eventId": "Box-Cricket",
+        "eventName": "Gaming",
+        "eventTagline": "Crushing the ball like a pro",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:00 AM",
+        "EventTime": " 8:30 AM",
+        "eventRounds": [
+
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Rudhra",
+                "eventCoordinatorNumber": "+91 7550256869"
+            },
+            {
+                "eventCoordinatorName": "Vignesh",
+                "eventCoordinatorNumber": "+91 6383157110"
+            }
+        ],
+        "eventImage": "/event-img/logo/boxCricket.png",
+        "eventPoster": "/event-poster/boxCricket.jpg",
+        "eventPosterMob": "/event-poster/boxCricket.jpg",
+        "eventType": "non-technical",
+        "eventUrl": "https://docs.google.com/forms/d/1s7lj4eX5WkzB_LW-phSgoEocIOfYdm8OIBKjlX4IrrE/edit",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+    {
+        "eventTitle": "The Knight changes",
+        "eventId": "The Knight changes",
+        "eventName": "Chess",
+        "eventTagline": "Some things in life are black and white",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:30 AM",
+        "EventTime": "10:30 AM onwards",
+        "eventRounds": [
+           
+            
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Sabarish ",
+                "eventCoordinatorNumber": "+91 9566221215"
+            },
+            {
+                "eventCoordinatorName": "Sidhra Farseen",
+                "eventCoordinatorNumber": "+91 9751539286"
+            }
+        ],
+        "eventImage": "/event-img/logoo/The Knight Changes(Chess).png",
+        "eventPoster": "/event-poster/chessPoster.jpg",
+        "eventPosterMob": "/event-poster/chessPoster.jpg",
+        "eventType": "non-technical",
+        "eventUrl": "https://forms.gle/mNEdHoJ6CKr69WnQA",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+    {
+        "eventTitle": "Brain-boom",
+        "eventId": "Brain-boom",
+        "eventName": "Connections",
+        "eventTagline": "the goal is to connect two opposite sides of the board",
+        "mode": "Offline",
+        "venue":"IT Department",
+        "EventDate": "03rd April 2025",
+        "ReportingTime": "8:30 AM",
+        "EventTime": "9.30 AM",
+        "eventDescription": " Hey VIPs,While you were sleeping, Stranger Things has been cooking in this part of the world.Try to pop it to the end in One Piece. From Baasha to Jailer, dive into The Eras of pop culture to rise as the Billa. Don’t forget to grab your F.r.i.e.n.d.s too. ",
+        "eventRounds": [
+            {
+                "roundName": "Pop Quiz: The Instructions: ",
+                "roundRules": [
+                    "1) This is an mixed event (Initial rounds are online, final round is offline)",
+                    "2) Individual Registrations",
+                    "3) Registrations will be considered on a First Come First Serve basis",
+                    "4) No registration fee",
+                    "5) The participants are asked to have a stable internet connection for online rounds",
+                    "6) Online matches will be conducted via Online Swiss System",
+                    "7) Qualified participants are requested to bring their own chess boards for the final round",
+                    "8) E-Certificates will be provided for all the participants"
+
+                ]
+            }
+           
+            
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Maria Rejo",
+                "eventCoordinatorNumber": "+91 6383286997"
+            },
+            {
+                "eventCoordinatorName": "Subasri",
+                "eventCoordinatorNumber": "+91 9345372853"
+            }
+        ],
+        "eventImage": "/event-img/logoo/Trivia Fiesta.png",
+        "eventPoster": "/event-poster/brainboom.jpg",
+        "eventPosterMob": "/event-poster/brainboom.jpg",
+        "eventType": "non-technical",
+        "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdTVxTWSNr-X4trNsiuUcT5C93lVB1mWHsZA9Q24LZmkOPQ7A/viewform?usp=header",
+        "eventCloseDate": "02-03-2025",
+        "eventClosed": false
+    },
+   
+    {
+        "eventTitle": "Technical Events",
+        "eventUrl": "Technical",
+        "eventImage": "/event-img/logo-main/3.png",
+        "eventType": "main"
+    },
+    {
+        "eventTitle": "Non-Technical Events",
+        "eventUrl": "non-technical",
+        "eventImage": "/event-img/logo-main/2.png",
+        "eventType": "main"
+    }
+]
