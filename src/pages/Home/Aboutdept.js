@@ -19,7 +19,7 @@ function Aboutdept() {
                     </span></h5>
                     <br/>
                 <p className='lg:w-full text-white pl-4 pr-8 lg:pr-12 lg:pl-8  text-justify text-xs sm:text-sm md:text-sm lg:text-[16px] backdrop-blur'>
-                The Department of Information Technology has been an active and effective part of Jeppiaar Engineering College (JEC) for more than a decade. Right from its inception of the year 2001, the department has been offering well – built infrastructural facilities with different computer platforms for grooming professional students to meet the incessant demands of the IT Industries. The department has vibrant and dynamic community of faculty and students and their varied achievements has made the department one of the best in the campus. The faculty team takes creative and committed measures to bring passion, enthusiasm to create quality professionals. 
+                The Department of Information Technology has been an active and effective part of Jeppiaar Engineering College (JEC) for more than a decade. Right from its inception of the year 2001, the department has been offering well – built infrastructural facilities with different computer platforms for grooming professional students to meet the incessant demands of the IT Industries.  
                 </p>
             </div>
         </div>

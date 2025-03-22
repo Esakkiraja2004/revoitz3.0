@@ -89,7 +89,7 @@ const Home_main = () => {
               color: "white",
             }}
           >
-            {dev ? <h6>Department of Information Technology <br/> and Engineering <br/> Proudly Presents</h6> : <h6>Department of  Information Technology <br/> Proudly Presents</h6>}
+            {dev ? <h6>Department of Information Technology <br/><br/> Proudly Presents</h6> : <h6>Department of  Information Technology <br/> Proudly Presents</h6>}
             
           </div>
           <br/>
