@@ -9,37 +9,45 @@
         }
 
     ],
+    "eventCorrdinators": [
+    {
+        
+        "name": "Mr. Elanilavan",
+        "contactNumber": "+91 99943 24238"
+    },
+
+    {
+        "name": "Ms. Abhinaya",
+        "contactNumber": "+91 6374 290 767"
+    },
+    {
+        "name": "Ms . Shamitha",
+        "contactNumber": "+91 80721 42582"
+    },
+    {
+        "name": "Mr . Pradeep",
+        "contactNumber": "+91 63832 48929 "
+    },
+    {
+        "name": "Ms . Yukthasri (Non - Technical)",
+        "contactNumber": "+91 87781 40407 "
+    },
+    {
+        "name": "Mr . Siva (Technical)",
+        "contactNumber": "+91 78068 01454"
+    }
+
+],
     "students": [
         {
             "name": "Ms. Kaarunya",
             "contactNumber": "+91 89403 11274"
         },
         {
-        
-            "name": "Mr. Elanilavan",
-            "contactNumber": "+91 99943 24238"
+            "name": "Mr. Muneeswaran V",
+            "contactNumber": "+91 75399 61825"
         },
 
-        {
-            "name": "Ms. Abhinaya",
-            "contactNumber": "+91 6374 290 767"
-        },
-        {
-            "name": "Ms . Yukthasri ",
-            "contactNumber": "+91 87781 40407 "
-        },
-        {
-            "name": "Mr .  Siva ",
-            "contactNumber": "+91 78068 01454"
-        },
-        {
-            "name": "Ms . Shamitha",
-            "contactNumber": "+91 80721 42582"
-        },
-        {
-            "name": "Mr . Pradeep",
-            "contactNumber": "+91 63832 48929 "
-        },
         {
             "name": "Mr. Sriman",
             "contactNumber": "+91 97914 46006"
@@ -115,12 +123,12 @@
             "contactNumber": "+91 63831 57110"
         },
         {
-            "name": "Mr. Sowmiya ",
+            "name": "Ms. Sowmiya ",
             "event": "Brain broom ",
             "contactNumber": "+91 93619 37124"
         },
         {
-            "name": "Mr. Sunasri ",
+            "name": "Ms. Sunasri ",
             "event": "Brain broom ",
             "contactNumber": "+91 93453 72853"
         },
@@ -136,7 +144,7 @@
         },
 
         {
-            "name": "Mr . Sidhra Farseen",
+            "name": "Ms . Sidhra Farseen",
             "event": "Chess",
             "contactNumber": "+91 97515 38286"
         },

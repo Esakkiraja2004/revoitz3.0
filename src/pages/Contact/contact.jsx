@@ -34,6 +34,23 @@ const Contact = () => {
         </div>
         <div className="student-holder">
           <div className="con-title" style={{ fontSize: "1.3em"}}>
+            EVENT COORDINATORS
+          </div>
+          <div className="student-details">
+            {ContactDetails["eventCorrdinators"].map((person, index) => {
+              return (
+                <StudentDetails
+                  key={index}
+                  name={person.name}
+                  phoneNo={person.contactNumber}
+                  index={index}
+                />
+              );
+            })}
+          </div>
+        </div>
+        <div className="student-holder">
+          <div className="con-title" style={{ fontSize: "1.3em"}}>
             STUDENT COORDINATORS
           </div>
           <div className="student-details">

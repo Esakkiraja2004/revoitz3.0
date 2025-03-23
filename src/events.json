@@ -11,7 +11,22 @@
         "EventTime": " 10:00 AM",
         "eventDescription": "Unique, United and Unyielding. Compose your designs with bags of characters to make the trophy your winning glory.",
         "eventRounds": [
-    ],
+            {
+                "roundName": "Paper Presentaion : The Instructions: ",
+                    "roundRules": [
+                        "1) Event: PPT Presentation",
+                        "2) Theme: Impact of AI in society as a whole",
+                        "3) Each team must consist of a maximum of 4 members",
+                        "4) Each team must present for a minimum of 2 minutes",
+                        "5) A participant cannot be a member of multiple teams",
+                        "6) Each team must bring their own laptops",
+                        "7) The presentation should be clear, informative, and well-structured",
+                        "8) Judges' decisions will be final"
+                    ]
+            }
+           
+            
+        ],
         "coordinatorDetails": [{
             "eventCoordinatorName": "Pooja",
             "eventCoordinatorNumber": "+91 9345227071"
@@ -46,7 +61,22 @@
         "EventTime": " 10:00 AM",
         "eventDescription": "Not everything is as it seems, find the hidden patterns lurking in the corners. Don’t be cryptical, Be Analytical.",
         "eventRounds": [
-    ],
+
+            {
+                "roundName": "Poster Presentation : Event Rules",
+                "roundRules": [
+                    "1) Theme: Posters must align with the given theme related to college culturals",
+                    "2) Size: The poster is free ratio and must be submitted in high resolution",
+                    "3) Time Limit: Participants will have 30 minutes to complete the poster",
+                    "4) Team Size: Maximum 2 members per team",
+                    "5) Registration Fees: 100 per team",
+                    "6) Participants are expected to use their own materials and equipment",
+                    "7) The poster should be creative, clear, and visually appealing",
+                    "8) Judges' decisions will be final"
+                ]
+            }
+        ],
+
         "coordinatorDetails": [{
                 "eventCoordinatorName": "Bharathvaj M",
                 "eventCoordinatorNumber": "+91 9363051621"
@@ -82,7 +112,22 @@
         "EventTime": " 10:00 AM",
         "eventDescription": "Be it syntax, semantic or logical, it’s time to go technical to eliminate the bane of your existence.Shoot your shot to terminate the bugs eating away at your code.",
         "eventRounds": [
-        ],
+
+    {
+        "roundName": "Debugging : Event Rules",
+        "roundRules": [
+            "1) Team Size: Maximum of 2 or 3 members per team",
+            "2) Language: The programming language used is typically Python or Java",
+            "3) Time Limit: Strict time limit for each round or the entire competition",
+            "4) No Internet/External Resources: Internet access and external resources are prohibited",
+            "5) Unfair Means: Any form of cheating or misbehavior will lead to disqualification",
+            "6) Code Provided: Participants will receive code with errors and must identify and fix the bugs",
+            "7) Clarity and correctness of the solution will be evaluated",
+            "8) Judges' decisions will be final"
+        ]
+    }
+]
+,
         "coordinatorDetails": [{
                 "eventCoordinatorName": "Karthick ",
                 "eventCoordinatorNumber": "+91 9384551952"
@@ -118,7 +163,21 @@
         "EventTime": " 9:00 AM",
         "eventDescription": "Make your ideas shine bright to put your name in the hall of fame. In the pages of these slides shall lie the products of your mind.",
 
-        "eventRounds": [],
+        "eventRounds": [
+
+    {
+        "roundName": "Tech Quiz : Event Rules",
+        "roundRules": [
+            "1) Each team shall consist of 2 members",
+            "2) The entry fee is rupees 100 per team",
+            "3) Teams must register at least 30 minutes prior to the competition",
+            "4) The use of electronic devices including mobile phones is strictly prohibited",
+            "5) The competition will consist of multiple rounds with questions in multiple-choice or open-ended format",
+            "6) Quick thinking and accuracy will be evaluated",
+            "7) Judges' decisions will be final"
+        ]
+    }
+],
         "coordinatorDetails": [{
             "eventCoordinatorName": "Elanchezhiyan ",
             "eventCoordinatorNumber": "+91 6382742460"
@@ -154,7 +213,16 @@
         "eventDescription": " It involves flicking a striker to move small discs into corner pockets on a square board.",
         "eventRounds": [
 
-        ],
+    {
+        "roundName": "Carrom : Rules & Regulations",
+        "roundRules": [
+            "1) Individual participation",
+            "2) General carrom rules will be followed",
+            "3) Organizer's decision will be final"
+        ]
+    }
+]
+,
         "coordinatorDetails": [{
                 "eventCoordinatorName": "Vijay",
                 "eventCoordinatorNumber": "+91 8248489019"
@@ -188,6 +256,16 @@
         "ReportingTime": "8:00 AM",
         "EventTime": " 8:30 AM",
         "eventRounds": [
+            {
+                "roundName": "Box Cricket : Rules",
+                "roundRules": [
+                    "1) Team Composition: 5 main players + 1 substitute",
+                    "2) Knockout match format",
+                    "3) Each match consists of 4 overs",
+                    "4) Umpire's decision will be final",
+                    "5) Teams must bring their own bat"
+                ]
+            }
 
         ],
         "coordinatorDetails": [{
@@ -208,8 +286,8 @@
         "eventClosed": false
     },
     {
-        "eventTitle": "The Knight changes",
-        "eventId": "The Knight changes",
+        "eventTitle": "Chess",
+        "eventId": "chess",
         "eventName": "Chess",
         "eventTagline": "Some things in life are black and white",
         "mode": "Offline",
@@ -218,6 +296,20 @@
         "ReportingTime": "8:30 AM",
         "EventTime": "10:30 AM onwards",
         "eventRounds": [
+
+            {
+                "roundName": "Chess Event : Rules",
+                "roundRules": [
+                    "1) Number of participants per entry: One participant",
+                    "2) Participants should report to the venue 10 minutes before for verification",
+                    "3) Knockout-based matches will be played",
+                    "4) One illegal move is allowed; the second illegal move by the same player will result in losing the game",
+                    "5) If a match ends in a tie, piece points count will declare the winner",
+                    "6) Touch and move rule will be followed",
+                    "7) All other rules are as per FIDE (World Chess Federation)",
+                    "8) The decision taken by the organizer is final"
+                ]
+            }
            
             
         ],
@@ -251,18 +343,18 @@
         "eventDescription": " Hey VIPs,While you were sleeping, Stranger Things has been cooking in this part of the world.Try to pop it to the end in One Piece. From Baasha to Jailer, dive into The Eras of pop culture to rise as the Billa. Don’t forget to grab your F.r.i.e.n.d.s too. ",
         "eventRounds": [
             {
-                "roundName": "Pop Quiz: The Instructions: ",
-                "roundRules": [
-                    "1) This is an mixed event (Initial rounds are online, final round is offline)",
-                    "2) Individual Registrations",
-                    "3) Registrations will be considered on a First Come First Serve basis",
-                    "4) No registration fee",
-                    "5) The participants are asked to have a stable internet connection for online rounds",
-                    "6) Online matches will be conducted via Online Swiss System",
-                    "7) Qualified participants are requested to bring their own chess boards for the final round",
-                    "8) E-Certificates will be provided for all the participants"
+                "roundName": "Brain boom: The Instructions: ",
+                    "roundRules": [
+                        "1) Brain Boom is an exciting quiz event",
+                        "2) Team size: 1-2 persons per team",
+                        "3) The event consists of 3 rounds in total",
+                        "4) Each round will last for 2.5 minutes",
+                        "5) Certificates will be provided to all participants",
+                        "6) No smart gadgets allowed during the competition",
+                        "7) Participants are encouraged to stay attentive and follow instructions",
+                        "8) The decision of the organizing team will be final"
+                    ]
 
-                ]
             }
            
             
