@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import Button from "../../components/Button/Button";
-import SynsaraLogo from "../../static/synsara-logo.png";
-import SynsaraLogo1 from "../../static/SYNSARA WEBSITE TEXT.png";
+import Button from "../../components/Button/Button"; 
 import TimeDisplay from "./TimeDisplay";
 import "./Home_main.css";
 import "./Home_main2.css";
