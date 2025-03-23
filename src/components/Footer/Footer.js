@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import sairam_logo from "../../static/jeppiaar.jpeg";
+import jeppiaar_logo from "../../static/jeppiaar.jpeg";
 import LinkedInSVG from "../../static/social/linkedin2x.png";
 import MapSVG from "../../static/social/Map.png";
 import InstagramSVG from "../../static/social/instagram2x.png";
@@ -10,7 +10,7 @@ export default function Footer() {
     <div className="footer_div">
       <div className="footer_logo">
         <a referrerPolicy="no-referrer" target="_blank" href="https://jeppiaarcollege.org/">
-        <img src={sairam_logo} alt="logo" />
+        <img src={jeppiaar_logo} alt="logo" />
         </a>
         <div
           style={{ height: "50px", backgroundColor: "white", width: "2px" }}
