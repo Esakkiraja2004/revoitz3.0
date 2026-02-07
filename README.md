@@ -1,6 +1,6 @@
 # Revoit  '25 - National Level Technical Symposium CSE
 
-Welcome to reviotz, the premier National Level Technical Symposium organized by the Computer Science and Engineering Department! This dynamic web application, built using React.js, Node.js, and Tailwind CSS, offers an immersive digital experience for our attendees. Whether you are a participant, speaker, or volunteer, Revoitz provides a seamless platform to engage with cutting-edge technologies, attend informative sessions, and network with professionals from the industry.
+Welcome to reviotz, the premier National Level Technical Symposium organized by the Information Technology Department! This dynamic web application, built using React.js, Node.js, and Tailwind CSS, offers an immersive digital experience for our attendees. Whether you are a participant, speaker, or volunteer, Revoitz provides a seamless platform to engage with cutting-edge technologies, attend informative sessions, and network with professionals from the industry.
 
 ## Features
 
